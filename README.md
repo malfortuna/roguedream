@@ -44,6 +44,8 @@ More
 
 This code is licensed under the Do What The Fudge You Want license, meaning it is effectively public domain. The license is purely there for people who like/need licenses - it allows you to use it for whatever you want. Commercial. Non-commercial. Other. Go nuts. You don't need to attribute, but I really appreciate it when people let me know, so drop me a line - mike@gamesnbyangelina.org. It also helps me justify working on public releases of my code too, because it's benefitting people!
 
+The license strictly applies to the code in the net.cutgar package only. Libs are under their own licenses, and artwork downloaded/created using Spritely is a bit of a grey area right now. Libs are uploaded here only to provide support for people trying to get code snippets working - if you believe these libs should not be here, please contact me and I'll resolve the issue.
+
 During my day job I research techniques for automating the design of videogames using artificial intelligence. If you want to learn more: http://www.gamesbyangelina.org
 
 In between, I try and make games myself. A Rogue Dream is one such attempt; most are unsuccessful but I put the results online anyway. More info at: http://www.cutgar.net
