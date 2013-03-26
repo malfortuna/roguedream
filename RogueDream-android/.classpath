@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/RogueDream"/>
+	<classpathentry kind="lib" exported="true" path="/RogueDream/libs/gdx.jar" sourcepath="/RogueDream/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="/RogueDream/libs/gdx-freetype.jar" sourcepath="/RogueDream/libs/gdx-freetype-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="/RogueDream/libs/tween-engine-api.jar" sourcepath="/RogueDream/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="/RogueDream/libs/flixel.jar" sourcepath="/RogueDream/libs/flixel-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="libs/flixel-android.jar" sourcepath="libs/flixel-android-sources.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
