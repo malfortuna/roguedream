@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="libs/evo-inflector-1.0.1.jar"/>
 	<classpathentry kind="lib" path="libs/gson-2.1.jar"/>
 	<classpathentry kind="lib" path="libs/spritely-alpha.jar"/>
+	<classpathentry kind="lib" path="libs/commons-cli-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
